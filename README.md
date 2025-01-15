@@ -22,9 +22,9 @@ Before running the project, make sure the following dependencies are installed:
 ```bash
 pip install opencv-python mediapipe numpy
 ```
-##PROJECT SETUP
+### Project Setup
 
-1. Clone the Repository
+Clone Repo
 To get started, clone the project repository to your local machine:
 
 ```bash
