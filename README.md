@@ -13,15 +13,23 @@ This project overlays a 3D glasses model onto a human face using a webcam feed. 
 
 ---
 
-## 📂 Project Structure
 
-Overlaying-3D-Model-of-glasses-on-face/
-│
-├── main.py # Entry point of the application
-├── model3D.py # Handles 3D model loading and projection
-├── faceTracker.py # Face and landmark tracking logic
-├── data/
-│ ├── data.obj # 3D model of the glasses
-│ └── data.obj.mtl # Material file for the model
-├── README.md # This file
-└── requirements.txt # Python dependencies
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Make sure Python 3.6+ is installed on your system.
+
+Install required dependencies using pip:
+
+```bash
+pip install -r requirements.txt
+```
+or you can use
+
+```bash
+pip install opencv-python mediapipe numpy
+```
+
