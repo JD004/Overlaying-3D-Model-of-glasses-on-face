@@ -75,7 +75,7 @@ Push to the branch
 
 Open a pull request
 
-### 🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 MediaPipe for facial landmark detection
 
@@ -83,6 +83,6 @@ OpenCV for image and video processing
 
 The open-source community for inspiration
 
-### 📬 Contact
+## 📬 Contact
 Maintained by JD004.
 Feel free to open issues or reach out with feature requests!
